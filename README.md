@@ -11,6 +11,13 @@
 6. Удаление файлов
 7. Добавление новых файлов
 
+## Используемые технологии
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
 ## Автор
 - GitHub: Dovlet24
 - Email: dovletmyratsaparov34@gmail.com 
